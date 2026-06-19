@@ -1,8 +1,11 @@
 # 🇧🇪 KBO/CBE Codes Taxonomy Explorer
 
+> 🔗 **Live Demo**: [https://beyto1974.github.io/kbo-numbers-explorer/](https://beyto1974.github.io/kbo-numbers-explorer/)
+
 An interactive, responsive web-based taxonomy explorer for the Belgian **Crossroads Bank for Enterprises (KBO/CBE)** activity and classification codes. 
 
 Inspired by the Shopify Product Taxonomy Explorer, this application provides an intuitive Miller Columns (Finder-like) interface to browse, search, analyze, and export Belgian classification codes.
+
 
 ## ✨ Features
 
